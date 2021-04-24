@@ -64,3 +64,13 @@ div {
 font-family: "Ubuntu";
 
 }
+
+/* features section*/
+
+#features {
+padding: 7% 15%;
+}
+.feature-box {
+text-align: center;
+padding: 7%
+}
